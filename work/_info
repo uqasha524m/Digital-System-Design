@@ -1,0 +1,175 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/examples
+T_opt
+!s110 1707817158
+VlTFfB8zNHV20UM[T_UB4`0
+04 13 4 work full_adder_tb fast 0
+=1-40b034eb17b4-65cb38c6-e1-c9c
+Z1 o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;10.7c;67
+T_opt1
+!s110 1707762566
+V<Y^DiFaK2GCF2_6X[76PN2
+04 5 4 work test2 fast 0
+=1-40b034eb17b4-65ca6386-119-4cc
+R1
+R2
+n@_opt1
+R3
+R0
+vfull_adder
+Z4 DXx6 sv_std 3 std 0 22 d=_JfHTnXCN[H5FjiaJJc0
+Z5 !s110 1707817130
+!i10b 1
+!s100 0o2iQZ=WXJ9]U>A]VzjH@2
+I9>g`=F`OniSibP3k_1DfE0
+Z6 VDg1SIo80bB@j0V0VzS_@n1
+!s105 lab2_task1_sr_sv_unit
+S1
+Z7 dC:/Users/Sc/Desktop/lab_2
+w1707763420
+8C:/Users/Sc/Desktop/lab_2/source/lab2_task1_sr.sv
+FC:/Users/Sc/Desktop/lab_2/source/lab2_task1_sr.sv
+L0 1
+Z8 OL;L;10.7c;67
+r1
+!s85 0
+31
+Z9 !s108 1707817130.000000
+!s107 C:/Users/Sc/Desktop/lab_2/source/lab2_task1_sr.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Sc/Desktop/lab_2/source/lab2_task1_sr.sv|
+!i113 0
+Z10 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vfull_adder_tb
+R4
+R5
+!i10b 1
+!s100 :m8Bj]E3UXFmY36jMXS:K3
+IVkFDmeZ_P?`XWGk^b^Q4m2
+R6
+!s105 lab2_task1_tb_sv_unit
+S1
+R7
+w1707817116
+8C:/Users/Sc/Desktop/lab_2/test/lab2_task1_tb.sv
+FC:/Users/Sc/Desktop/lab_2/test/lab2_task1_tb.sv
+L0 1
+R8
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/Sc/Desktop/lab_2/test/lab2_task1_tb.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Sc/Desktop/lab_2/test/lab2_task1_tb.sv|
+!i113 0
+R10
+R2
+vLab2_t2
+R4
+Z11 !s110 1707762231
+!i10b 1
+!s100 AGXS[_dcJEB?[9cgkIf2E2
+Id@K1S4azdU9QN;PVGn^UB1
+R6
+!s105 src2_sv_unit
+S1
+R7
+w1707762093
+8C:/Users/Sc/Desktop/kk ktheta/src2.sv
+FC:/Users/Sc/Desktop/kk ktheta/src2.sv
+L0 1
+R8
+r1
+!s85 0
+31
+Z12 !s108 1707762231.000000
+!s107 C:/Users/Sc/Desktop/kk ktheta/src2.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Sc/Desktop/kk ktheta/src2.sv|
+!i113 0
+R10
+R2
+n@lab2_t2
+vLab2_t2_tb
+R4
+R11
+!i10b 1
+!s100 O_aYj9nzRm6DHhah>`JH62
+ID2Ll4?UfG9of^?89YKFJ40
+R6
+!s105 tb2_sv_unit
+S1
+R7
+w1707762131
+8C:/Users/Sc/Desktop/kk ktheta/tb2.sv
+FC:/Users/Sc/Desktop/kk ktheta/tb2.sv
+L0 1
+R8
+r1
+!s85 0
+31
+R12
+!s107 C:/Users/Sc/Desktop/kk ktheta/tb2.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Sc/Desktop/kk ktheta/tb2.sv|
+!i113 0
+R10
+R2
+n@lab2_t2_tb
+vsource
+R4
+Z13 !s110 1707762532
+!i10b 1
+!s100 iY:0DM@OoEN`k9;1FAFh`0
+I6>Da[hj8GXF3PSX14Wk@a1
+R6
+!s105 source2_sv_unit
+S1
+R7
+Z14 w1707762399
+8C:/Users/Sc/Desktop/kk ktheta/source2.sv
+FC:/Users/Sc/Desktop/kk ktheta/source2.sv
+L0 1
+R8
+r1
+!s85 0
+31
+Z15 !s108 1707762532.000000
+!s107 C:/Users/Sc/Desktop/kk ktheta/source2.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Sc/Desktop/kk ktheta/source2.sv|
+!i113 0
+R10
+R2
+vtest2
+R4
+R13
+!i10b 1
+!s100 E[b;[NJLOjSooIL4_]6eH1
+I72^@f60b?JT=1hOV1:ABE1
+R6
+!s105 Testbench2_sv_unit
+S1
+R7
+R14
+8C:/Users/Sc/Desktop/kk ktheta/Testbench2.sv
+FC:/Users/Sc/Desktop/kk ktheta/Testbench2.sv
+L0 1
+R8
+r1
+!s85 0
+31
+R15
+!s107 C:/Users/Sc/Desktop/kk ktheta/Testbench2.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Sc/Desktop/kk ktheta/Testbench2.sv|
+!i113 0
+R10
+R2
